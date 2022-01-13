@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm Patrick and I'm 3rd year Business Economics major at UCLA. 
 
 ### Contact me
 
