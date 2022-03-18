@@ -4,7 +4,7 @@ title: Reflection Blog Post
 ---
 
 
-## PIC16B Project Reflection Blog Post
+# PIC16B Project Reflection Blog Post
 
 <br> 
 
